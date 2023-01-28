@@ -1,0 +1,15 @@
+C:\Geekbrain\Case52\obj\Debug\net6.0\Case52.csproj.AssemblyReference.cache
+C:\Geekbrain\Case52\obj\Debug\net6.0\Case52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrain\Case52\obj\Debug\net6.0\Case52.AssemblyInfoInputs.cache
+C:\Geekbrain\Case52\obj\Debug\net6.0\Case52.AssemblyInfo.cs
+C:\Geekbrain\Case52\obj\Debug\net6.0\Case52.csproj.CoreCompileInputs.cache
+C:\Geekbrain\Case52\bin\Debug\net6.0\Case52.exe
+C:\Geekbrain\Case52\bin\Debug\net6.0\Case52.deps.json
+C:\Geekbrain\Case52\bin\Debug\net6.0\Case52.runtimeconfig.json
+C:\Geekbrain\Case52\bin\Debug\net6.0\Case52.dll
+C:\Geekbrain\Case52\bin\Debug\net6.0\Case52.pdb
+C:\Geekbrain\Case52\obj\Debug\net6.0\Case52.dll
+C:\Geekbrain\Case52\obj\Debug\net6.0\refint\Case52.dll
+C:\Geekbrain\Case52\obj\Debug\net6.0\Case52.pdb
+C:\Geekbrain\Case52\obj\Debug\net6.0\Case52.genruntimeconfig.cache
+C:\Geekbrain\Case52\obj\Debug\net6.0\ref\Case52.dll
